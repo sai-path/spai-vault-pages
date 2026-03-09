@@ -15,7 +15,8 @@ Welcome to the legal and support page for **SPAI Vault**, a secure document stor
 
 ## Summary
 
-- **SPAI Vault** stores document images and metadata **only on your device**, with encryption and optional biometric lock.
+- **SPAI Vault** is available **worldwide** and is not restricted to any country or region.
+- The App stores document images and metadata **only on your device**, with encryption and optional biometric lock.
 - We **do not** collect, upload, or sell your personal data or document contents.
 - Optional in-app tips are processed by **Apple**; we do not receive your payment details.
 - By using the App, you agree to our [Privacy Policy](PRIVACY_POLICY.md) and [Terms of Use](TERMS_OF_USE.md).
@@ -28,4 +29,4 @@ For privacy or terms-related questions, use the support or contact option in the
 
 ---
 
-*Last updated: March 2025*
+**Version:** 1.0 · *Last updated: March 2026*
