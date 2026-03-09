@@ -1,0 +1,11 @@
+# Minimal Jekyll config for GitHub Pages
+# Used when GitHub Pages builds the site from the docs/ folder
+
+title: SPAI Vault
+description: Privacy Policy and Terms of Use for SPAI Vault
+
+# Optional: use a theme (GitHub Pages supports these)
+# theme: jekyll-theme-minimal
+
+# If you don't set a theme, GitHub Pages still renders Markdown in docs/
+# and index.md becomes the homepage when /docs is the source.
