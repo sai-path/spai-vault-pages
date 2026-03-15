@@ -43,6 +43,7 @@ We do **not**:
 - Use analytics, advertising, or tracking SDKs that collect usage or device data.
 - Operate servers that receive or store your documents or vault data.
 - Sell or rent personal information (we have no personal information to sell).
+- Use your data for advertising or marketing.
 
 ---
 
@@ -58,7 +59,7 @@ The following information is stored **only on your Device** (and, if you enable 
 ### 5.2 Profile and Preference Data
 
 - **Profiles:** Profile names and avatar choices (e.g., for family members) are stored locally.
-- **Preferences:** Settings such as theme (e.g., light/dark), onboarding completion, and custom reminder intervals are stored locally (e.g., using iOS UserDefaults).
+- **Preferences:** Settings such as theme (e.g., light/dark), onboarding completion, and custom reminder dates and notification schedule preferences are stored locally (e.g., using iOS UserDefaults).
 - **In-app purchase state:** If you make optional in-app purchases (e.g., tips), Apple processes the transaction. We do not receive or store payment details. We may receive from Apple only the information necessary to reflect purchase state in the App (e.g., that a tip was completed). Any record of purchased items may be stored locally on your Device so the App can show the correct state.
 
 ### 5.3 Biometric and Security Data

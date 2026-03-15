@@ -162,7 +162,7 @@ The App is offered globally. You agree to comply with all applicable export, imp
 
 - **By you:** You may stop using the App at any time by uninstalling it.
 - **By us:** We may terminate or suspend your right to use the App (to the extent we have the ability to do so) if we believe you have violated these Terms or for operational or legal reasons, with or without notice.
-- **Effect:** Upon termination, your license to use the App ceases. Sections that by their nature should survive (including Sections 7–11, 14, 19, and 20) will survive termination.
+- **Effect:** Upon termination, your license to use the App ceases. Sections that by their nature should survive (including Sections 7–11, 14, 15, 19, and 20) will survive termination.
 
 ---
 
