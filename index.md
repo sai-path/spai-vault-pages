@@ -43,42 +43,6 @@ SPAI Vault helps you securely store, organize, and access your most important do
 
 ---
 
-## App Store description (copy for listing)
-
-Use the text below in App Store Connect for the **Description** field (up to 4000 characters):
-
----
-
-SPAI Vault helps you securely store, organize, and access your most important documents anytime.
-
-Never worry about losing important paperwork again. Whether it's your passport, visa, driver license, or certificates, SPAI Vault keeps everything safely stored in your personal digital vault.
-
-Designed with privacy and simplicity in mind, SPAI Vault makes managing your documents easy and secure.
-
-🔐 **Secure Document Vault**  
-Keep passports, IDs, visas, insurance cards, and other essential documents protected in one private place.
-
-📄 **Scan Documents Instantly**  
-Use your phone camera to quickly scan and save documents directly into your vault.
-
-⏰ **Expiration Reminders**  
-Never miss important deadlines. Get reminders before your documents expire.
-
-👨‍👩‍👧 **Profiles for Family**  
-Organize documents for yourself and family members using separate profiles.
-
-🔎 **Fast Search**  
-Quickly find documents when you need them most.
-
-🔒 **Built for Privacy**  
-Your documents remain private and secure inside your vault.
-
-Stay organized. Stay secure.
-
-SPAI Vault makes document management simple.
-
----
-
 ## Download
 
 SPAI Vault is available on the **App Store** for iPhone and iPad.
